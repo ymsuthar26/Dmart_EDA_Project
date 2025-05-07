@@ -37,13 +37,4 @@ Exploratory Data Analysis (EDA) of DMart's customer, sales, and product dataset.
 ## Tools Used
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
-- Jupyter Notebook
-- GitHub
 
----
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ymsuthar26/Dmart_EDA_Project.git
